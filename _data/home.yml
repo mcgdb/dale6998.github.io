@@ -1,0 +1,117 @@
+intro:
+  lead-in: "Faster than a Speeding Marlin"
+  heading: Safety Meets Fun
+  btn: Lets Go Fishing
+
+services:
+  heading: Products
+  subheading: See What We Have Been Working On!.
+  service:
+    - icon: fa fa-microchip
+      heading: Powerful Algorithm
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-battery-full
+      heading: Impressive Battery Performance
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-leaf
+      heading: Light, Foldable & Compact
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-anchor
+      heading: Many Advanced Features
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
+portfolio:
+  heading: Portfolio
+  subheading: See What We Have Worked On!
+
+about:
+  heading: About
+  subheading: Who Are You Guys, Anyway?
+  timeline:
+    - image: img/about/1.jpg
+      date: 2009-2011
+      title: Our Humble Beginnings
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/2.jpg
+      date: March 2011
+      title: An Agency is Born
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/3.jpg
+      date: December 2012
+      title: Transition to Full Service
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/4.jpg
+      date: July 2014
+      title: Phase Two Expansion
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+  end1: Be Part
+  end2: Of Our
+  end3: Story!
+
+team:
+  heading: Our Amazing Team
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  members:
+    - name: Craig Verrill
+      role: Lead Electrical Design
+      img: img/team/1.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#" 
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+        
+    - name: Dale Goodman
+      role: Lead System Design
+      img: img/team/2.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#"
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+    - name: Ivan Ivanovski
+      role: Lead Mechanical Design
+      img: img/team/3.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#"
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+
+clients:
+  - img: img/logos/envato.jpg
+    url: "#"
+  - img: img/logos/designmodo.jpg
+    url: "#"
+  - img: img/logos/themeforest.jpg
+    url: "#"
+  - img: img/logos/creative-market.jpg   
+    url: "#"
+
+contact:
+  heading: Contact Us
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  name: Your Name *
+  name-required: Please enter your name.
+  email: Your Email *
+  email-required: Please enter your email address.
+  phone: Your Phone *
+  phone-required: Please enter your phone number.
+  message: Your Message *
+  message-required: Please enter a message.
+  btn: Send Message
+
+  js-url: '././mail/contact_me.php'
+  js-success: 'Your message has been sent. '
+  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
