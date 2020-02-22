@@ -9,16 +9,16 @@ services:
   service:
     - icon: fa fa-microchip
       heading: Powerful Algorithm
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: Cutting edge algoritms using advanced industry and academic research in motor control gives you all the torque with none of the inefficency.
     - icon: fa fa-battery-full
       heading: Impressive Battery Performance
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: A 5 hour Battery performance is maximized by both expert hardware design and PCB layout practices as well as plenty of extra behind-the-scenes feedback so that the system knows just how to handle the battery in any condition.
     - icon: fa fa-leaf
       heading: Light, Foldable & Compact
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: There when you need it, and out of the way when you don't!  The compact and modular design allows for easy attachment/detatchment from the kayak.  At less than 15lbs, this is the lightest and most powerful kayak drive system ever.
     - icon: fa fa-anchor
       heading: Many Advanced Features
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: Kayaking isn't just about going in a straight line as fast as possible (although, we can do that!).  We also bake in a plethora of other features, including Virtual Anchor©, Trip Replay, Emergency Broadcast and more!
 
 portfolio:
   heading: Portfolio
@@ -29,21 +29,24 @@ about:
   subheading: Who Are You Guys, Anyway?
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
+      date: 2010
       title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      text: We started our careers as classmates and became business partners.  After one of our wives got caught in an outgoing tide on a kayk, we felt that there had to be a better solution in case kayakers got stuck in a similar situation.  Beyond safety, we wanted our design to be modular, light, easy to use and it had to fit on any kayak in the market.
+
     - image: img/about/2.jpg
-      date: March 2011
+      date: 2013
       title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      text: BubblesTech was initally founded as a consulting firm to help companies who needed surge resources to finish out project that were in some sort of trouble.  We were never called in because things were going super well, but rather, because they were in tough shape!  Becasue of this, we have a deep bench of knowledge when it comes to electronics and product design!
+
     - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: 2019
+      title: Beta Testing
+      text: After years of working in the NPI industry and in parallel developing the Hydra Kayak System, we are please to be in Beta testing and look forward to the wonderful feedback from our Beta Testers around the world!
+
     - image: img/about/4.jpg
-      date: July 2014
+      date: 2020
       title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      text: We have an anticipated date of Spring 2020 to release the Hydra Kayak control system to our partners after integrating feedback from Beta testers.  At that time, we are anticipating having all updated design packages to our CMs and ready to go.
 
   end1: Be Part
   end2: Of Our
@@ -86,21 +89,28 @@ team:
         - icon: fa fa-linkedin
           url: "#"
 
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+    - name: Aleksandra Roberson
+      role: Lead Business Development
+      img: img/team/4.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#"
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+  text: Call Us  +1-(207)-521-1480.
 
 clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"
+  - img: img/logos/st_logo.png
+    url: "https://www.stmicroelectronics.com/"
+  - img: img/logos/synergy_inc_logo.png
+    url: "https://www.synergy-inc.com/"
 
 contact:
   heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: We will respond as quickly as possible
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
