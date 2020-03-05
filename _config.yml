@@ -11,6 +11,6 @@ collections:
 
 # Build settings
 theme: jekyll-theme-startbootstrap-agency
-#remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
+remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
 plugins:
   - jekyll-remote-theme
