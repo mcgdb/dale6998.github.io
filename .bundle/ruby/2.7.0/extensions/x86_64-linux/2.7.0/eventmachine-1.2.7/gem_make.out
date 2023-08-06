@@ -1,0 +1,22 @@
+current directory: /home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/dale/.rbenv/versions/2.7.3/bin/ruby -I /home/dale/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210722-125241-2u4dop.rb extconf.rb
+creating Makefile
+
+current directory: /home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+make[1]: Entering directory '/home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader'
+make[1]: Leaving directory '/home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader'
+
+current directory: /home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+make[1]: Entering directory '/home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader'
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+make[1]: Leaving directory '/home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader'
+
+current directory: /home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+make[1]: Entering directory '/home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader'
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210722-125241-16lebgk
+make[1]: Leaving directory '/home/dale/BubblesTech/Website/dale6998.github.io/.bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader'

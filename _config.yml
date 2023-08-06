@@ -1,16 +1,37 @@
-title: Agency - Start Bootstrap Theme
-# author: ''
-# description: 'en'
-# lang: 'en'
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# assets_path: 'assets/'
+# site settings
+title: BubblesTech
+subtitle: The Cleanest, Meanest NPI Design Group on the East Coast
+email: info@bubblestech.com
+description: Go from prototype to producing technology at full scale with BubblesTech.
+baseurl: "/bubbles" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 874 Sanford Rd
+city: Wells
+state: ME
+zip_code: 04090
+country: United States of America
+phone: (207) 521-1480
 
-collections:
-  projects:
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Build settings
-theme: jekyll-theme-startbootstrap-agency
-remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
-plugins:
-  - jekyll-remote-theme
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  LinkedIn: https://www.linkedin.com/company/bubblestech
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
